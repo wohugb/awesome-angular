@@ -10,10 +10,10 @@ Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, start
 
 > If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
 
-##### Current Angular version:
+##### 当前版本:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
-##### Current Browser support for Angular:
+##### 当前支持浏览器:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 
@@ -23,7 +23,7 @@ Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, start
   </a>
 </p>
 
-Table of contents:
+菜单:
 * [Angular](#angular)
   * [Official Resources](#official-resources)
   * [Community](#community)
@@ -96,7 +96,7 @@ Table of contents:
 ### Angular
 > Angular is a development platform for building mobile and desktop web applications.
 
-#### Official Resources
+#### 官方资源
 * [Site](https://angular.io/)
 * [Blog](http://angularjs.blogspot.com/)
 * [Documentation](https://angular.io/docs/js/latest/)
@@ -104,7 +104,7 @@ Table of contents:
 * [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
 * [GitHub Repo](https://github.com/angular/angular)
 
-#### Community
+#### 社区
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
@@ -120,7 +120,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
-#### Angular Team on twitter
+#### Twitter上团队
 
 * [@mhevery](https://twitter.com/mhevery)
 * [@IgorMinar](https://twitter.com/IgorMinar)
@@ -130,7 +130,7 @@ Table of contents:
 * [@karaforthewin](https://twitter.com/karaforthewin)
 * [@robwormald](https://twitter.com/robwormald)
 
-#### Experts on Twitter
+#### Twitter上专家
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
 * [@gdi2290](https://twitter.com/gdi2290)
@@ -143,7 +143,7 @@ Table of contents:
 * [@victorsavkin](https://twitter.com/victorsavkin)
 * [@jeffbcross](https://twitter.com/jeffbcross)
 
-##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### [谷歌开发专家](https://developers.google.com/experts/all/technology/web-technologies)
 * [Jack Franklin](https://twitter.com/jack_franklin)
 * [Thierry Chatel](https://twitter.com/ThierryChatel)
 * [Uri Shaked](https://twitter.com/urishaked)
@@ -168,10 +168,10 @@ Table of contents:
 * [Minko Gechev](https://twitter.com/mgechev)
 * [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
-#### Server-Side Rendering
+#### 服务端渲染
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
-#### Material Design
+#### Material 设计
 * [Official Angular 2 Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
@@ -180,13 +180,13 @@ Table of contents:
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
-#### Cheatsheet
+#### 图表
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 
-#### Features
+#### 功能
 
 ##### Annotations
 ###### Directives
@@ -229,12 +229,12 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Introduction to HTTP in Angular 2](http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http)
 <br>[Read more »](features/HTTP.md)
 
-##### Router
+##### 路由
 * [Offical Router](https://angular.io/docs/ts/latest/guide/router.html#!#sts=Router%20imports)
 * [ui-router](https://github.com/angular-ui/ui-router)
 <br>[Read more »](features/Router.md)
 
-##### Test
+##### 测试
 * [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
@@ -264,7 +264,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
 * [Angular 2 ASP.NET Core Spa from SteveSandersonMS](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa)
 
-#### Series
+#### 系列
 * Ionic
   * Angular 2
     * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
@@ -279,7 +279,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 
-#### Video Tutorials
+#### 视频教程
 * [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
@@ -294,7 +294,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 
-#### Style Guides
+#### 样式引导
 
 * [Official Angular 2 Style guide](https://angular.io/styleguide)
 
@@ -310,7 +310,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Modularity and Packaging for Angular2 Applications – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
 * [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
 
-#### Books
+#### 书籍
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
@@ -321,7 +321,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [揭秘Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
 * [Learn Angular 2](http://learnangular2.com/) `Ionic Team`
 
-#### On-Site Training
+#### 在线培训
 * [AngularClass](https://angularclass.com)
 * [Angular Boot Camp](https://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
@@ -380,7 +380,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
-#### Components
+#### 组件
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
@@ -447,7 +447,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-order-pipe](https://github.com/VadimDez/ng2-order-pipe) OrderBy pipe for Angular2 - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
 
-#### Generators
+#### 生成器
 * Node.js
   * Slush
     * [TheVelourFog/slush-angular2](https://github.com/RyanMetin/slush-angular2)
@@ -459,7 +459,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * Stagehand
     * [google/stagehand](https://github.com/google/stagehand)
 
-#### Documentation tools
+#### 文档工具
 
 * [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
